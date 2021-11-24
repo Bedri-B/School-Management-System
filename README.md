@@ -1,2 +1,2 @@
-# School-Management-System-Backend-API(no front end)
+# School-Management-System-Backend-API(no FrontEnd)
 Node-Express
